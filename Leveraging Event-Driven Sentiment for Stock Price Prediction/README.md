@@ -9,15 +9,15 @@ This project explores the relationship between **event-driven sentiment** and **
 - **Event Impact Assessment :** Evaluates the influence of market sentiment on stock price movements during specific corporate events.
 - **Cross-Validation :** Utilizes time-series cross-validation to ensure robust model performance.
 
-## Use Cases
-- **Investor Insights :** Provides actionable insights for traders and investors by correlating public sentiment with stock performance.
-- **Event Analysis :** Helps assess the market impact of major corporate events.
-- **Financial Forecasting :** Enhances predictive capabilities for automated trading systems and financial analysts.
-
 ## Technologies Used
 - **Python :** Core programming language.
 - **FinBERT :** Financial text-specific sentiment analysis model from Hugging Face.
 - **Pandas :** For data manipulation and analysis.
 - **Matplotlib** and **Seaborn :** For data visualization.
 - **Scikit-learn :** For implementing the linear regression model and evaluating performance.
+  
+## Use Cases
+- **Investor Insights :** Provides actionable insights for traders and investors by correlating public sentiment with stock performance.
+- **Event Analysis :** Helps assess the market impact of major corporate events.
+- **Financial Forecasting :** Enhances predictive capabilities for automated trading systems and financial analysts.
 
